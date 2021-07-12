@@ -6,9 +6,9 @@
 
 
 
-Trabalhando no(s) arquivo(s):
+**Trabalhando no(s) arquivo(s):**
 
  - index.html
 
-Arquivo(s) finalizado(s):
+**Arquivo(s) finalizado(s):**
 
