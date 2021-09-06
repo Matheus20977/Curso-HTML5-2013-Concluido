@@ -6,7 +6,7 @@ _https://www.cursoemvideo.com/course/html5/_
 
 **Progresso:**
 
-*[======================================================================##############################] 70%*
+*[===========================================================================#########################] 75%*
 
 
 
@@ -14,6 +14,7 @@ _https://www.cursoemvideo.com/course/html5/_
 
  - index.html
  - google-glass.html
+ - specs.html
  - _css/estilo.css
  - _javascript/funcoes.js
 
