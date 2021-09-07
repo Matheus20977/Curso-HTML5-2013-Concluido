@@ -6,17 +6,21 @@ _https://www.cursoemvideo.com/course/html5/_
 
 **Progresso:**
 
-*[===========================================================================#########################] 75%*
+*[================================================================================####################] 80%*
 
 
 
 **Trabalhando no(s) arquivo(s):**
 
  - index.html
- - google-glass.html
- - specs.html
- - _css/estilo.css
- - _javascript/funcoes.js
 
 **Arquivo(s) finalizado(s):**
+
+- specs.html
+- google-glass.html
+- fotos.html
+- _css/specs.css
+- _css/fotos.css
+- _css/estilo.css
+- _javascript/funcoes.js
 
