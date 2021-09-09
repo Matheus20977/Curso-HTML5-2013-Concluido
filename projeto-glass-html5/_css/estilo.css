@@ -154,6 +154,16 @@ article#noticia-principal h2 {
     margin: 10px 0px 10px 0px;
 }
 
+article video#video01 {
+    position: relative;
+    left: 40px;
+}
+
+aside video#video02 {
+    position: relative;
+    left: 26px;
+}
+
 header#cabecalho-artigo h1 {
     font-family: 'FonteLogo', sans-serif;
     font-size: 20pt;
