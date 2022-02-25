@@ -7,7 +7,7 @@ _https://www.cursoemvideo.com/course/html5/_
 **Progresso:**
 
 <div align="center">
-    <img src="https://prnt.sc/7KeS4MN0BZUZ" width="600px"/>
+    <img src="https://i.ibb.co/zfhxLZR/html5.png" width="600px"/>
 </div>
 
 **Arquivo(s) finalizado(s):**
