@@ -6,9 +6,9 @@ _https://www.cursoemvideo.com/course/html5/_
 
 **Progresso:**
 
-*[====================================================================================================] 100%*
-
-
+<div align="center">
+    <img src="/home/matheus/Imagens/html5.png" width="600px"/>
+</div>
 
 **Arquivo(s) finalizado(s):**
 
